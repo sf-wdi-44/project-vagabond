@@ -46,7 +46,7 @@
   * Sorted by newest first.
   * With the post titles linked to the individual post "show" pages.
 1. Use an "Add New Post" button on the San Francisco city page to pull up the new post form.
-1. Create a new post for San Francisco (**Hint:** <a href="http://guides.rubyonrails.org/routing.html#nested-resources" target="_blank">nested resources</a>).
+1. Create a new post for San Francisco,<!--(**Hint:** <a href="http://guides.rubyonrails.org/routing.html#nested-resources" target="_blank">nested resources</a>)-->.
 1. Click "Edit" on ANY individual post, and be redirected to the edit form.
 1. Click "delete" on ANY individual post, then:
   * See a pop-up that says: "Are you sure you want to delete #{title}?"
