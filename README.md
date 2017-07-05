@@ -52,12 +52,19 @@ After each sprint, **deploy to heroku** to get practice getting the app online. 
 
 ## Groups
 
-Each group has an assigned instructor or IA, who will act as your client as well as give technical support during instructor-group meetings.
+Each group has an assigned teaching team member who will act as your client and give technical support during instructor-group meetings.
 
-#### Team \#1 - TODO: INSTRUCTOR
+#### Team \#1 
 * TODO: STUDENT
 * TODO: STUDENT
 
+#### Team \#2 
+* TODO: STUDENT
+* TODO: STUDENT
+
+#### Team \#3 
+* TODO: STUDENT
+* TODO: STUDENT
 
 ## Presentation
 
@@ -84,20 +91,20 @@ You will be evaluated on the following measures:
   - planning to avoid excessive merge conflicts
   - deliberate approach - routeside-in, logical progress from skateboard to car
   - the code is your original code
-1. Execution
+2. Execution
   - to what degree does your app fulfill the user stories?
   - code is clean
   - follows good naming conventions
   - code is free of obvious errors and bugs
   - code demonstrates good problem solving
   - code is DRY
-1. Technical requirements
+3. Technical requirements
   - users are authenticated
   - full CRUD for cities
   - custom HTML, CSS, and JavaScript (using the asset pipeline)
   - users are authorized
   - deployed to heroku
   - commenting (optional)
-1. Creativity
+4. User Experience / Creativity
   - polished appearance
   - personalized spin, not just a template
