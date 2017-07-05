@@ -2,7 +2,7 @@
 
 ## Brief
 
-We have been commissioned to build a travel community, code-named **Project Vagabond** for now, for users to share tips (AKA posts) about their favorite locations around the world. You will be building this app from scratch, so please **do not fork this repository to begin**, just use it as an online reference.
+We have been commissioned to build a travel community, code-named **Project Vagabond** for now, for users to share tips (AKA posts) about their favorite locations around the world. You will be building this app from scratch, so please **do not fork this repository to begin**; just use it as an online reference.
 
 ## Client Contract
 
