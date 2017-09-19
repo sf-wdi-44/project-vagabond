@@ -1,4 +1,4 @@
-# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project Vagabond
+# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project 2: Codename Vagabond
 
 ## Brief
 
@@ -27,7 +27,7 @@ Put effort into your **design**. Use a CSS framework (e.g. Bootstrap), partials,
 
 Work as **[git collaborators](./git-collaboration-workflow.md), build on feature branches, and submit pull requests for approval and merging**.
 
-After each sprint, **deploy to heroku** to get practice getting the app online. The earlier you resolve deployment, the easier it will be on each updated version.
+After each sprint, **deploy to Heroku** to get practice getting the app online. The earlier you resolve deployment, the easier it will be on each updated version.
 
 **Refactor** your code after each sprint, considering:
 
@@ -50,25 +50,9 @@ After each sprint, **deploy to heroku** to get practice getting the app online. 
 
 5. **What milestones are you and your group members interested in working on?** How can you effectively delegate the work into pairs so that each group member is interested, challenged, and productive?
 
-## Groups
-
-Each group has an assigned teaching team member who will act as your client and give technical support during instructor-group meetings.
-
-#### Team \#1 
-* TODO: STUDENT
-* TODO: STUDENT
-
-#### Team \#2 
-* TODO: STUDENT
-* TODO: STUDENT
-
-#### Team \#3 
-* TODO: STUDENT
-* TODO: STUDENT
-
 ## Presentation
 
-Each group will present their project on **TODO: WEEKDAY, MONTH DAY** starting at **TODO: TIME** for 10 minutes.
+Each group will present their project on **Tuesday, September 26** starting at **10:30 am** for 10 minutes.
 
 Each member of your group should speak for equal parts during your presentation and mention which parts of the project they worked on.
 
@@ -77,7 +61,7 @@ Each member of your group should speak for equal parts during your presentation 
 * Tour (demo) of your app deployed on heroku.
 * How did your group approach the requirements? (mention anything unique or creative your group chose to do)
 * What was easier than you thought? What was more challenging?
-* What is a lesson you will carry forward to working on Project 2?
+* What is a lesson you will carry forward to working on Project 3?
 * Shout outs for fellow students!
 
 ## Evaluation
@@ -91,6 +75,7 @@ You will be evaluated on the following measures:
   - planning to avoid excessive merge conflicts
   - deliberate approach - routeside-in, logical progress from skateboard to car
   - the code is your original code
+  - good interaction with client
 2. Execution
   - to what degree does your app fulfill the user stories?
   - code is clean
