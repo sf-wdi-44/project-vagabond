@@ -17,7 +17,7 @@ The client contract consists of three core sprints and four bonus sprints. Each 
 
 **IMPORTANT:** You may not begin a new sprint or start on a bonus without client approval.
 
-You will work in groups of 3-4, and we expect you to **pair program** for the majority of the time you're writing code.
+You will work in groups of 3, and we expect you to **pair program** for the majority of the time you're writing code.
 
 During morning scrums and in smaller check-ins throughout the day, clearly communicate your current status and next steps to your teammates. Use a kanban-style scrum board such as **Trello** to organize tasks ([example Trello board](https://trello.com/b/JPdt327u/vagabond)).
 
@@ -38,6 +38,10 @@ After each sprint, **deploy to Heroku** to get practice getting the app online. 
 * Commenting
 * DRYness
 
+## Groups
+
+Group 1:
+1. 
 ## Questions to Ask Yourselves
 
 1. **Are you all clear about what the client wants?** Identify vague areas. Seek clarification in any cases where you feel less confident about your interpretation of the client's vision.
@@ -52,7 +56,7 @@ After each sprint, **deploy to Heroku** to get practice getting the app online. 
 
 ## Presentation
 
-Each group will present their project on **Tuesday, September 26** starting at **10:30 am** for 10 minutes.
+Each group will present their project on **Monday, September 25** starting at **3:00 pm** for 10 minutes.
 
 Each member of your group should speak for equal parts during your presentation and mention which parts of the project they worked on.
 
