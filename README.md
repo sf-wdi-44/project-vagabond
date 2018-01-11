@@ -17,7 +17,7 @@ The client contract consists of three core sprints and four bonus sprints. Each 
 
 **IMPORTANT:** You may not begin a new sprint or start on a bonus without client approval.
 
-You will work in groups of 3, and we expect you to **pair program** for the majority of the time you're writing code.
+You will work in groups of 2, and we expect you to **pair program** for the majority of the time you're writing code.
 
 During morning scrums and in smaller check-ins throughout the day, clearly communicate your current status and next steps to your teammates. Use a kanban-style scrum board such as **Trello** to organize tasks ([example Trello board](https://trello.com/b/JPdt327u/vagabond)).
 
