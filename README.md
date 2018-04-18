@@ -56,7 +56,7 @@ Group 1:
 
 ## Presentation
 
-Each group will present their project on **Wednesday, January 17** starting at **3:30 pm** for 10 minutes.
+Each group will present their project on **Tuesday, April 24** starting at **3:30 pm** for 10 minutes.
 
 Each member of your group should speak for equal parts during your presentation and mention which parts of the project they worked on.
 
